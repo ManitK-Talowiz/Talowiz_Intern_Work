@@ -1,0 +1,129 @@
+[
+    { 
+  "jobRole": ["Freight Forwarding Specialist - Air Freight Specialist"], 
+  "location": "Amsterdam, Noord-Holland, Netherlands", 
+  "minExperience": 2, 
+  "maxExperience": null, 
+  "mustHaveSkills": [ 
+    {"Freight Forwarding": "HIGH"}, 
+    {"Air freight": "HIGH"}, 
+    {"Dutch language": "HIGH"}, 
+    {"English language": "HIGH"}, 
+    {"IATA dangerous goods certification": "HIGH"}, 
+    {"Logistics documentation": "HIGH"} 
+  ], 
+  "goodToHaveSkills": [ 
+    {"Aviation security training": "MEDIUM"} 
+  ], 
+  "matchingJobRoles": ["Logistics Specialist", "Export/Import Coordinator", "Air Freight Coordinator", "Supply Chain Specialist"] 
+},
+{ 
+  "jobRole": ["Group Senior Manager - Digital Product Sales"], 
+  "location": "Dubai, United Arab Emirates", 
+  "minExperience": 5, 
+  "maxExperience": 8, 
+  "mustHaveSkills": [ 
+    {"SaaS cloud solution sales": "HIGH"}, 
+    {"ERP/CRM sales": "HIGH"}, 
+    {"Logistics solutions sales": "HIGH"}, 
+    {"Customer presentations": "HIGH"}, 
+    {"Proposal preparation": "HIGH"}, 
+    {"Team management": "HIGH"}, 
+    {"Sales strategy": "HIGH"}, 
+    {"Channel partner management": "HIGH"} 
+  ], 
+  "goodToHaveSkills": [ 
+    {"International Freight Forwarding certification": "MEDIUM"}, 
+    {"Logistics and Transportation certification": "MEDIUM"} 
+  ], 
+  "matchingJobRoles": ["Sales Manager", "Channel Sales Manager", "Solutions Sales Manager", "Enterprise Sales Manager"] 
+},
+{ 
+  "jobRole": ["Principal Engineer"], 
+  "location": "Bangalore", 
+  "minExperience": 10, 
+  "maxExperience": null, 
+  "mustHaveSkills": [ 
+    {"Java": "HIGH"}, 
+    {"Spring Boot": "HIGH"}, 
+    {"Microservices": "HIGH"}, 
+    {"Design Patterns": "HIGH"}, 
+    {"RESTful APIs": "HIGH"}, 
+    {"Asynchronous Messaging": "HIGH"}, 
+    {"Docker": "MEDIUM"}, 
+    {"Kubernetes": "MEDIUM"}, 
+    {"Cloud Platforms": "MEDIUM"}, 
+    {"DevOps": "MEDIUM"}, 
+    {"CI/CD": "MEDIUM"}, 
+    {"SQL": "MEDIUM"}, 
+    {"NoSQL": "MEDIUM"}, 
+    {"Team Leadership": "HIGH"}, 
+    {"Mentoring": "HIGH"} 
+  ], 
+  "goodToHaveSkills": [ 
+    {"Frontend Technologies": "MEDIUM"} 
+  ], 
+  "matchingJobRoles": ["Java Architect", "Technical Lead", "Solutions Architect", "Backend Architect"] 
+},
+{ 
+  "jobRole": ["SDE 2", "Frontend Developer"], 
+  "location": null, 
+  "minExperience": null, 
+  "maxExperience": null, 
+  "mustHaveSkills": [ 
+    {"AngularJS": "HIGH"}, 
+    {"ReactJS": "HIGH"}, 
+    {"Redux Toolkit": "HIGH"}, 
+    {"Javascript": "HIGH"}, 
+    {"HTML5": "HIGH"}, 
+    {"CSS3": "HIGH"}, 
+    {"DOM manipulation": "HIGH"}, 
+    {"JavaScript object model": "HIGH"}, 
+    {"Authentication": "MEDIUM"}, 
+    {"Git": "MEDIUM"}, 
+    {"Babel": "MEDIUM"}, 
+    {"Webpack": "MEDIUM"}, 
+    {"Yarn": "MEDIUM"}, 
+    {"NPM": "MEDIUM"}, 
+    {"Asynchronous programming": "HIGH"} 
+  ], 
+  "goodToHaveSkills": [ 
+    {"Immutable.js": "MEDIUM"}, 
+    {"TypeScript": "MEDIUM"}, 
+    {"Micro Frontend Architecture": "MEDIUM"} 
+  ], 
+  "matchingJobRoles": ["Frontend Developer", "UI Developer", "Frontend Engineer"] 
+},
+{ 
+  "jobRole": ["SDE III", "Senior Front-End Developer"], 
+  "location": null, 
+  "minExperience": 8, 
+  "maxExperience": null, 
+  "mustHaveSkills": [ 
+    {"JavaScript": "HIGH"}, 
+    {"TypeScript": "HIGH"}, 
+    {"Next.js": "HIGH"}, 
+    {"React.js": "HIGH"}, 
+    {"Vue.js": "HIGH"}, 
+    {"HTML": "HIGH"}, 
+    {"CSS": "HIGH"}, 
+    {"Bootstrap": "MEDIUM"}, 
+    {"Tailwind": "MEDIUM"}, 
+    {"LESS": "MEDIUM"}, 
+    {"SASS": "MEDIUM"}, 
+    {"HTTP": "MEDIUM"}, 
+    {"REST": "MEDIUM"}, 
+    {"GraphQL": "MEDIUM"}, 
+    {"Web Performance Optimization": "HIGH"}, 
+    {"SEO": "MEDIUM"}, 
+    {"Accessibility": "MEDIUM"}, 
+    {"Internationalization": "MEDIUM"}, 
+    {"Web Security": "HIGH"}, 
+    {"Mentoring": "MEDIUM"} 
+  ], 
+  "goodToHaveSkills": [ 
+    {"Server-side CSS": "MEDIUM"} 
+  ], 
+  "matchingJobRoles": ["Senior Frontend Developer", "Frontend Architect", "Lead Frontend Engineer"] 
+}
+]
